@@ -23,5 +23,5 @@ Data Preparation and Data Mining
 # Midterm
 [Midterm](https://github.com/Suchada2000/BSC_DPDM23/commit/b9e3dd13427454f13ee0590d5430266d6f4c9da0)
 # Project
-[Project](https://github.com/Suchada2000/BSC_DPDM23/blob/main/Project_Final.ipynb)
-[slides_Project](https://github.com/Suchada2000/BSC_DPDM23/blob/main/project_.pdf)
+- [Project](https://github.com/Suchada2000/BSC_DPDM23/blob/main/Project_Final.ipynb)
+- [slides_Project](https://github.com/Suchada2000/BSC_DPDM23/blob/main/project_.pdf)
