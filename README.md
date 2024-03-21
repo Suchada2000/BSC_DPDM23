@@ -9,4 +9,4 @@ Data Preparation and Data Mining
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - Github 5%
 # Midterm
-[Midterm}_https://github.com/Suchada2000/BSC_DPDM23/commit/b9e3dd13427454f13ee0590d5430266d6f4c9da0
+[Midterm}(https://github.com/Suchada2000/BSC_DPDM23/commit/b9e3dd13427454f13ee0590d5430266d6f4c9da0)
